@@ -4,7 +4,7 @@ const SearchBox = ({ searchValue, handleSearch }) => {
   return (
     <>
       <label className={css.label}>
-        Fine contacts by name
+        Find contacts by name
         <input
           className={css.input}
           type="text"
